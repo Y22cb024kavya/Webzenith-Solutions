@@ -1,0 +1,50 @@
+{
+  "node": {
+    "40658a9929058b6b3f3838f6e8dae77ba2c8a3762e": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": "[project]/apps/web/.next-internal/server/app/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/apps/web/app/dashboard/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createLead",
+          "filename": "apps/web/app/dashboard/actions.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      },
+      "exportedName": "createLead",
+      "filename": "apps/web/app/dashboard/actions.ts"
+    },
+    "60278df50d8167221ff0d1a815f3e5ab03706913cc": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": "[project]/apps/web/.next-internal/server/app/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/apps/web/app/dashboard/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "updateLeadStatus",
+          "filename": "apps/web/app/dashboard/actions.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      },
+      "exportedName": "updateLeadStatus",
+      "filename": "apps/web/app/dashboard/actions.ts"
+    },
+    "4074d9d5118f9e09ed814d65c0c65566419dfa0795": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": "[project]/apps/web/.next-internal/server/app/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/apps/web/app/dashboard/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteLead",
+          "filename": "apps/web/app/dashboard/actions.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      },
+      "exportedName": "deleteLead",
+      "filename": "apps/web/app/dashboard/actions.ts"
+    }
+  },
+  "edge": {}
+}
