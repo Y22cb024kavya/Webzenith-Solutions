@@ -1,0 +1,66 @@
+{
+  "node": {
+    "404e1f9b14d91789c73b75c2c7a075acb828125d44": {
+      "workers": {
+        "app/login/page": {
+          "moduleId": "[project]/apps/web/.next-internal/server/app/login/page/actions.js { ACTIONS_MODULE0 => \"[project]/apps/web/app/login/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "login",
+          "filename": "apps/web/app/login/actions.ts"
+        }
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      },
+      "filename": "apps/web/app/login/actions.ts",
+      "exportedName": "login"
+    },
+    "40658a9929058b6b3f3838f6e8dae77ba2c8a3762e": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": "[project]/apps/web/.next-internal/server/app/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/apps/web/app/dashboard/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createLead",
+          "filename": "apps/web/app/dashboard/actions.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      },
+      "filename": "apps/web/app/dashboard/actions.ts",
+      "exportedName": "createLead"
+    },
+    "60278df50d8167221ff0d1a815f3e5ab03706913cc": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": "[project]/apps/web/.next-internal/server/app/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/apps/web/app/dashboard/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "updateLeadStatus",
+          "filename": "apps/web/app/dashboard/actions.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      },
+      "filename": "apps/web/app/dashboard/actions.ts",
+      "exportedName": "updateLeadStatus"
+    },
+    "4074d9d5118f9e09ed814d65c0c65566419dfa0795": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": "[project]/apps/web/.next-internal/server/app/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/apps/web/app/dashboard/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteLead",
+          "filename": "apps/web/app/dashboard/actions.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      },
+      "filename": "apps/web/app/dashboard/actions.ts",
+      "exportedName": "deleteLead"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "XV5Uaq/RAAJyI9xIDKbNcf149f2XCkZNSrdFFcXAz4A="
+}
