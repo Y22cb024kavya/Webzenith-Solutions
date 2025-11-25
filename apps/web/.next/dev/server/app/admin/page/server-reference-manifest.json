@@ -1,0 +1,35 @@
+{
+  "node": {
+    "40797cb7143fbf89caed9d49ca9f46c9a8ddad0a8a": {
+      "workers": {
+        "app/admin/page": {
+          "moduleId": "[project]/apps/web/.next-internal/server/app/admin/page/actions.js { ACTIONS_MODULE0 => \"[project]/apps/web/app/admin/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "adminCreateUser",
+          "filename": "apps/web/app/admin/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/page": "action-browser"
+      },
+      "exportedName": "adminCreateUser",
+      "filename": "apps/web/app/admin/actions.ts"
+    },
+    "009f5cfff4213b76f51c2b5e04077d37acd5fb9958": {
+      "workers": {
+        "app/admin/page": {
+          "moduleId": "[project]/apps/web/.next-internal/server/app/admin/page/actions.js { ACTIONS_MODULE0 => \"[project]/apps/web/app/admin/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getAllUsers",
+          "filename": "apps/web/app/admin/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/page": "action-browser"
+      },
+      "exportedName": "getAllUsers",
+      "filename": "apps/web/app/admin/actions.ts"
+    }
+  },
+  "edge": {}
+}
