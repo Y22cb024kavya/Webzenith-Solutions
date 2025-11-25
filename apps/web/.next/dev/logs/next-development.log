@@ -1,0 +1,6 @@
+[00:00:03.044] Server  WARN     ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:03.357] Server  LOG      ✓ Ready in 2.6s
+[00:00:18.292] Server  LOG      ○ Compiling / ...
+[00:00:29.441] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:11.253] Browser LOG     Attempting Signup...
+[00:05:24.827] Browser LOG     User created: 7b89131a-9058-40d0-aef0-dbec8170aec5
